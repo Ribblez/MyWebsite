@@ -1,9 +1,10 @@
 function Contact() {
     return (
       <div id="contact">
-      <p>
         <h1>Contact</h1>
-      </p>
+        <span>Phone: </span>
+        <span>Email: </span>
+        <span>LinkedIn: </span>
       </div>
     );
   }

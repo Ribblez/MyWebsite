@@ -1,8 +1,9 @@
 function Resume() {
     return (
-      <p>
+      <div id="resume">
         <h1>Resume</h1>
-      </p>
+        <p>Download link coming soon</p>
+      </div>
     );
   }
   
