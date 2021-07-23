@@ -1,0 +1,16 @@
+ul {
+    list-style-type: none;
+    padding : 10px 10px;
+    position: sticky;
+    background-color: grey;
+}
+
+li {
+    display: inline;
+}
+
+a {
+    padding: 12px;
+    text-decoration: none;
+    color: maroon;
+}
