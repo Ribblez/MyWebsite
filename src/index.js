@@ -12,11 +12,13 @@ import './index.css';
 ReactDOM.render(
   <React.StrictMode>
       <NavBar />
+    <div class="content">
       <Header />
       <About />
       <Projects />
       <Resume />
       <Contact />
+    </div>
   </React.StrictMode>,
   document.getElementById("root")
 );

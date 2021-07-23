@@ -1,4 +1,6 @@
 ul {
+    font-family: 'Teko', sans-serif;
+    font-size: 40px;
     list-style-type: none;
     padding : 10px 10px;
     position: fixed;
